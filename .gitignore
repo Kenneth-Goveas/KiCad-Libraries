@@ -1,0 +1,15 @@
+# Only track symbols in symbols directory
+symbols/*
+!symbols/*.kicad_sym
+
+# Only track footprints in footprints directory
+footprints/*
+!footprints/*.pretty
+footprints/*.pretty/*
+!footprints/*.pretty/*.kicad_mod
+
+# Only track models in models directory
+models/*
+!models/*.3dshapes
+models/*.3dshapes/*
+!models/*.3dshapes/*.step
