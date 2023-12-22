@@ -13,3 +13,6 @@ models/*
 !models/*.3dshapes
 models/*.3dshapes/*
 !models/*.3dshapes/*.step
+
+# Ignore temporary files
+*.swp
