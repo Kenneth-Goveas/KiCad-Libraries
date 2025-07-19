@@ -29,4 +29,5 @@
   (lib (name "Local_Interface_FTDI")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/Interface_FTDI.kicad_sym")(descr ""))
   (lib (name "Local_MCU_Microchip")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/MCU_Microchip.kicad_sym")(descr ""))
   (lib (name "Local_SiP_Nordic")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/SiP_Nordic.kicad_sym")(descr ""))
+  (lib (name "Local_SensorMod_Adafruit")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/SensorMod_Adafruit.kicad_sym")(descr ""))
 )
